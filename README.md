@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdamGr2002
-- 👀 I’m interested in cybersecurity,Unity
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Game Jam
+- 👋 Hi, I’m Adam
+- 👀 I’m interested in cybersecurity,godot,web dev
+- 🌱 I’m currently learning godot
+- 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me adam.GUERCHI@tek-up.de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I was a kid i was afraid of michael jackson.

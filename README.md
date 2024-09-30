@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in cybersecurity,godot,web dev
-- 🌱 I’m currently learning godot
+- 👀 I’m interested in cybersecurity,unity,web dev
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me adam.GUERCHI@tek-up.de
+- 📫 How to reach me adem.guerchy@edu.isetcom.tn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I was a kid i was afraid of michael jackson.
 

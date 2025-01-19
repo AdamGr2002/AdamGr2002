@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in cybersecurity,unity,web dev
-- 🌱 I’m currently learning unity
+- 👀 I’m interested in cybersecurity,Game dev, web dev
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me adem.guerchy@edu.isetcom.tn
 - 😄 Pronouns: He/Him

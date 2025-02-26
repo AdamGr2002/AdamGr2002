@@ -10,13 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - name: Fetch Anime Quote
         run: |
-          QUOTE=$(curl -s https://animechan.vercel.app/api/random | jq -r '"\(.quote)" — \(.character) from \(.anime)')
-          sed -i "s|<p align=\"center\" id=\"anime-quote\">.*</p>|<p align=\"center\" id=\"anime-quote\">${QUOTE}</p>|" README.md
+          # Using the Animechan API as an alternative
+          QUOTE_DATA=$(curl -s "https://katanime.vercel.app/api/getrandom" | jq -r '.result[0]')
+          ANIME=$(echo $QUOTE_DATA | jq -r '.anime')
+          CHARACTER=$(echo $QUOTE_DATA | jq -r '.character')
+          QUOTE=$(echo $QUOTE_DATA | jq -r '.english')
+          
+          # Escape double quotes and other special characters for sed
+          QUOTE_ESCAPED=$(echo "\"$QUOTE\" — $CHARACTER from $ANIME" | sed 's/[\/&]/\\&/g')
+          
+          # Update the README with the new quote
+          sed -i "s|<p align=\"center\" id=\"anime-quote\">.*</p>|<p align=\"center\" id=\"anime-quote\">$QUOTE_ESCAPED</p>|" README.md
+      
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git commit -am "Update anime quote"
+          git add README.md
+          git commit -m "Update anime quote" || echo "No changes to commit"
           git push

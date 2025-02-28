@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You don't need a reason to love someone." — Makoto Isshiki from Chuunibyo Demo Koi ga Shitai!</p>
+<p align="center" id="anime-quote">"What are you fighting for? Is it the medals you received, or your father's orders?" — Lacus Clyne from Mobile Suit Gundam Seed</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"The top brass at the organization is seriously panicked, right now. Nobody knows what will happen to the "real world", now that we've lost our Deity. If Miss Suzimiya is feeling merciful, we might get to keep on living, on this side of the bubble." — Itsuki Koizumi from The Melancholy of Haruhi Suzumiya</p>
+<p align="center" id="anime-quote">"The point of life isn't to be perfect. It's to do what you want to do. To be who you want to be." — Iori Nagase from Kokoro Connect</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

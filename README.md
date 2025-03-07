@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"People say love can be developed, but in the end the only person they love is themselves, that's why you choose to love someone who can please you the most." — Takumi Ichinose from NANA</p>
+<p align="center" id="anime-quote">"Allen, you know you're bleeding, right?" — Lavi from D.Gray-man</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

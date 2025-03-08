@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Allen, you know you're bleeding, right?" — Lavi from D.Gray-man</p>
+<p align="center" id="anime-quote">"Wrongly placed jealousy is ugly when it goes too far." — Kawai Maria from Akuma To Love Song</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

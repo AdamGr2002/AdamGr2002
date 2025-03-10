@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"For those who love another... To disobey, to rage, to curse, to fight, to kill... None of these disproves that love. A love that's too strong may even make those more likely." — Khamsin Nbh'w from Shakugan no Shana III</p>
+<p align="center" id="anime-quote">"Don't worry, this will be over in five seconds." — Sasuke Uchiha from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

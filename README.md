@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Don't worry, this will be over in five seconds." — Sasuke Uchiha from Naruto</p>
+<p align="center" id="anime-quote">"Lies are like colours. The more you pile up, the blacker things get." — Yuuji Kazami from Grisaia no Kajitsu</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

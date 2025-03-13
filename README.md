@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Throughout my life, the moments, and people who have defined me... they have all been illuminated by sparks." — Guts from Berserk</p>
+<p align="center" id="anime-quote">"Any time one isn't familiar with something, it all looks the same. Knowledge and education are required to properly judge a thing." — Suruga Kanbaru from Nisemonogatari</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"The truth has power because it's the truth. And because it is the truth, that makes it just. It's persuasive, isn't it? Don't you want truth like that?" — Taro from Serial Experiments Lain</p>
+<p align="center" id="anime-quote">"Even if I'm not around, nothing will change, you say? It's not as if I'm living my life to prove something silly like that! We live our lives to see how the world changes around us, don't you think?" — Kinichirou Imamura from Again!!</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

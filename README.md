@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Put a steel mask on your face and armor on your heart." — Koko Hekmatyar from Jormungand</p>
+<p align="center" id="anime-quote">"Do all of you really want... to win that badly? You all want the Grail that desperately?! You'd crush the only wish I have in my heart... do none of you feel any shame at all?! I won't forgive you... I? won't forgive ANY of you for this! All of you monsters who'd disregard a knight's honor for personal gain... let my blood taint your dreams! Let the Grail be cursed! Let the wish it grants bring disaster! And when you fall into the pits of hell... remember the rage of Diarmuid!" — Lancer from Fate/zero</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

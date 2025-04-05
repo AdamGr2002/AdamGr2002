@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Yuki is my dear girl. The only one in the entire world." — Kaname Kuran from Vampire Knight</p>
+<p align="center" id="anime-quote">"You must be prepared to face the worst possible scenarios. Because harsh reality strikes without warning." — Hunter X Hunter from Hunter X Hunter</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

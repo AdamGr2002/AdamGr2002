@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You must be prepared to face the worst possible scenarios. Because harsh reality strikes without warning." — Hunter X Hunter from Hunter X Hunter</p>
+<p align="center" id="anime-quote">"Whatever you do, enjoy it to the fullest. That is the secret of life." — Rider from Fate/zero</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"So what if I'd spare him? In my mind it's the certainty in myself that I possess which allows me to have that kind of mercy or compassion. There's no wavering on that point. It's fixed like the stars. The fact is I'm never gonna be killed! So remember this: mercy and compassion are virtues that only the strong are privileged to possess. And I am strong." — Claire Stanfield from Baccano!</p>
+<p align="center" id="anime-quote">"It is the vampire hunter's duty to kill vampires." — Zero Kiriyuu from Vampire Knight</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

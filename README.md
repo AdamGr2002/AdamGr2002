@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It is the vampire hunter's duty to kill vampires." — Zero Kiriyuu from Vampire Knight</p>
+<p align="center" id="anime-quote">"Gooood morning earth-bending student!" — Toph Bei Fong from Avatar: The Last Airbender</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

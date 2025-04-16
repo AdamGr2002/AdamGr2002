@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"What must triumph here is the knight's path of chivalry that we champion. Is that not so, Heroic Spirit Arturia?" — Lancer from Fate/zero</p>
+<p align="center" id="anime-quote">"You really don't know what happened, do you? It doesn't matter. By all means, stay in this cozy coffin of yours and continue to play prince. But I have to go now. She's not gone at all, she merely vanished form your world. Farewell. " — Anthy Himemiya from Revolutionary Girl Utena</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

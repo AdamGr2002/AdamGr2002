@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It's just...a bad dream! Wake up, wake up..." — Chihiro Ogino from Spirited Away</p>
+<p align="center" id="anime-quote">"Keep in mind that there are those who get hurt and those who try to heal the hurt ones. For those guys, it's not funny to have something they value so much be brushed off so lightly. How can a man protect another if he can't even protect himself?" — Sawada Iemitsu from Katekyo Hitman Reborn!</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

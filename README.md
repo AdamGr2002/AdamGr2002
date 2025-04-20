@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"No matter how much he wants it, he can't be a normal human anymore. *about Rin*" — Yukio Okumura from Ao no Exorcist</p>
+<p align="center" id="anime-quote">"We didn’t give up on our dreams! We changed our dreams into your dream! That’s what parents do! That’s what a family does!" — Furukawa Akio from CLANNAD</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I pretended it was someone else's fault that nothing happened. But I was wrong. If you put your mind to it, you can change the color of your world in an instant." — Sorata Kanda from Sakurasou no Pet na Kanojo</p>
+<p align="center" id="anime-quote">"No matter how strong a defense, a stronger offense will always shatter it." — Kuchiki Byakuya from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over." — Spike Spiegel from Cowboy Bebop</p>
+<p align="center" id="anime-quote">"These fools... thinking that this might truly be enough to take my life... I need no help! I AM WHITEBEARD!!!" — Whitebeard from One Piece</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

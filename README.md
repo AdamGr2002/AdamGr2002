@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You have the gift of perseverance, and that's what makes you a genius too!" — Might Guy from Naruto</p>
+<p align="center" id="anime-quote">"Ah, Kurosaki. I'm glad to see you've finally realized the importance of a cape." — Uryuu Ishida from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

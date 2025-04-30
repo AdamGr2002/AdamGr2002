@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"The ones who suffer from the loss of the game, become stronger. They will challenge us by throwing away everything like their pride and past glories." — Tezuka Kunimitsu from Prince Of Tennis</p>
+<p align="center" id="anime-quote">"Oh, immortality. Heh, I gave that to the snake." — Archer from Fate/stay night</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

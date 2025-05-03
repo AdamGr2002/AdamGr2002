@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I don't have have much time. It's not that I'm busy, but I'm only willing to give you about two and a half more minutes of my life!" — Shizuo Heiwajima from Durarara!!</p>
+<p align="center" id="anime-quote">"The briefest glimpse of your smile is far more dazzling than any fireworks display." — Io Otonashi from Acchi Kocchi</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

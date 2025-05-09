@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I had a dream where I fell into a surreal world with a girl I knew, and then ended up kissing her! A dream so easy to understand that even Sigmund Freud would laugh out loud." — Kyon from The Melancholy of Haruhi Suzumiya</p>
+<p align="center" id="anime-quote">"I am the alienated, the ridiculed, the despised. No need to praise my name. No need to envy my body. I am the shadow under the radiance of heroic spirits. Birthed of the darkness of glorious legend. And so, I hate, I resent. Nourished by the sighs of the people precipitated within the darkness, people that curse the light. This is my disgrace. Because of her unsullied glory, I must forever be belittled. You are, the sacrifice. Good, give me more, your blood and flesh, your life. Let them ignite my hatred!!" — Berserker from Fate/zero</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Do you understand how to handle cards now? I win as long as I can make you think "there's no way he will play that card"." — Hiruma Youichi from Eyeshield 21</p>
+<p align="center" id="anime-quote">"Depending on who you place in the same situation, the characteristics of said incident change kaleidoscopically. In other words, there is one incident; however, there are as many stories explaining it as there are people involved in it." — Gustav St. Germain from Baccano!</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

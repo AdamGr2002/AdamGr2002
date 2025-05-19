@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"*after his "5 ton's hammer" breaks* Of course it was fake! I can't lift five tons! I quit after five pounds!" — Usopp from One Piece</p>
+<p align="center" id="anime-quote">"A conscience grows, just like the body. It's bred within your heart. That's why the shape of people's kindness is so different." — Honda Tohru from Fruits Basket</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

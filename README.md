@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Not bad, for an early prototype." — Piccolo from Dragon Ball</p>
+<p align="center" id="anime-quote">"It must make you sick to know an underling like me is going to kill you." — Tousen Kaname from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

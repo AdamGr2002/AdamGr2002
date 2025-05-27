@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Hard work is worthless for those that don't believe in themselves." — Naruto Uzumaki from Naruto</p>
+<p align="center" id="anime-quote">"I don't know if you noticed, but you just called him "Captain."" — Matsumoto Rangiku from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

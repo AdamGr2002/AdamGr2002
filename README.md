@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Copper, 40g; Zinc, 25g; Nickel, 15g; Hiding Embarrassment, 5g and Spite, 97kg." — Senjougahara Hitagi from Bakemonogatari</p>
+<p align="center" id="anime-quote">"Whether you walk or run, the destination won't change. So then... You might as well run there!!!" — Itsuki Minami from Air Gear</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

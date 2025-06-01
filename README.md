@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"There are stars and planets floating around me. I don't think I could handle astronomy right now." — Crona from Soul Eater</p>
+<p align="center" id="anime-quote">"You don’t need something from someone else. What you need is to make your heart stronger. If you act naturally, people will naturally like you. And I’d like you more that way too." — Yokodera Youto from Hentai Ouji To Warawanai Neko</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,28 +1,29 @@
 <!-- Header with animated text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Adam+Guerchi;Coder+|+Security+Enthusiast&center=true&size=27&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Adam+Guerchi;Coder&center=true&size=27&color=58a6ff">
 </h1>
 
 <!-- Anime-inspired banner -->
-
-  ![anime-boy](https://github.com/user-attachments/assets/c09f55a3-8354-4336-845a-b539298a45ab)
-
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-1366.gif">
+</p>
 
 ## 💻 About Me
 
-- 🔐 Cybersecurity enthusiast exploring the digital fortress
+- 🛠️ Currently building: full-stack apps with Next.js and Convex
 - 🎮 Avid gamer when not breaking or building code
 - 🌐 Always learning new technologies and techniques
+- 🌱 Passionate about: tech for good, indie games, anime projects, and productivity tools
 
 <!-- Tech Stack with Icons -->
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Nextjs-E34F26?style=for-the-badge&logo=nextjs&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Mint_linux-557C94?style=for-the-badge&logo=mint-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
 <!-- GitHub Stats with anime theme -->
@@ -34,7 +35,6 @@
 </div>
 
 <!-- Dynamic WakaTime stats -->
-## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -42,13 +42,6 @@
 <!-- Cybersecurity section with custom badges -->
 
 <!-- Gaming section with custom badges -->
-## 🎮 Gaming Life
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-  <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="CS:GO" />
-</p>
 
 <!-- Anime-inspired footer with visitor counter -->
 <div align="center">

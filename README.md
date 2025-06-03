@@ -72,7 +72,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You're a monster who deserves to die, right here, with me." — Natarle Badgiruel from Mobile Suit Gundam Seed</p>
+<p align="center" id="anime-quote">"In this world, the only organisms that get cursed are humans." — Komui Lee from D.Gray-man</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

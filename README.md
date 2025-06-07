@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"(thinking) Haru understood me. He cared for me. He loved me." — Sohma Rin from Fruits Basket</p>
+<p align="center" id="anime-quote">"It's sad that a selfish woman like you will never know how wonderful being in love is! Your beautiful world of ice will just be a dark land of death! How could a world without life be beautiful?" — Usagi Tsukino from Sailor Moon</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

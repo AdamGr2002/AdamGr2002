@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"All of life's journeys come with meetings, partings, and reunions." — Meryl Stryfe from Trigun</p>
+<p align="center" id="anime-quote">"I didn't understand anything. Zero suffered and suffered for four years. What were you thinking, all by yourself? He loathes vampires so much, he wants to kill them all. All this time, Zero wanted to kill himself too." — Yuki Kuran from Vampire Knight</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

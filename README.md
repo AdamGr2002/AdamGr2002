@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Do you think I can shoulder everyone's lives and not feel any weight? I don't want to be indifferent. I want to be worthy of everyone's feelings." — Gai Tsutsugami from Guilty Crown</p>
+<p align="center" id="anime-quote">"Kyo-kun! Kyo-kun! I do love you, Kyo-kun! I love you!!!" — Sohma Kagura from Fruits Basket</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

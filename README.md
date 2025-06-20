@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I was, I am, and I remain a soldier, sworn to devote my heart and soul to the restoration of humankind! There is no greater glory than than dying for that belief!" — Armin Arlelt from Shingeki no Kyojin</p>
+<p align="center" id="anime-quote">"Once you question your own belief, it's over." — Naruto Uzumaki from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

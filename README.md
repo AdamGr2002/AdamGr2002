@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Once you question your own belief, it's over." — Naruto Uzumaki from Naruto</p>
+<p align="center" id="anime-quote">"Human memories aren't reliable. Your brain will add something or just glorify it, memories make you believe what happened was better than it actually was." — Motoharu Yano from Bokura ga Ita</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

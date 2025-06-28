@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It's because of you that we're here now. That is more than enough. I'll bear my own injuries. As long as I live, I'll be able to recover. If I live, I can heal. Although scars will remains." — Allen Walker from D.Gray-man</p>
+<p align="center" id="anime-quote">"The game design for life is flawed." — Keima Katsuragi from Kami Nomi zo Shiru Sekai</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

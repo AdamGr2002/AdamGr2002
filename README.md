@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"(To Ichigo Kurosaki before getting shot point-blank by his Cero) I see. So you show no mercy. Just like a true Hollow. I care not. Defeated by you as I stand, my existence holds no further meaning. Do it." — Ulquiorra Schiffer from Bleach</p>
+<p align="center" id="anime-quote">"You don't feel as good on my foot now, change yourself back into a frog." — Medusa Gorgon from Soul Eater</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

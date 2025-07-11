@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"[To Yammy] They're all trash...kill them all." — Ulquiorra Schiffer from Bleach</p>
+<p align="center" id="anime-quote">"A rock thrown at a pole will not hit, but if one does not aim at the pole, it will hit! That is the law I used!" — Rock Lee from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

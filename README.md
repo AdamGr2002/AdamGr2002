@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"There are many unusual things in this world. Everyday events occur that cannot be explained. Bizarre phenomena that often go unnoticed because people close their eyes to what they don't understand. But the truth of the matter is, there are many unusual things in this world. And people... People are the most mysterious of them all." — Yuuko Ichihara from xxxHOLiC</p>
+<p align="center" id="anime-quote">"After all.. love is all about timing. If you don't say the right thing at the right moment, no matter how much fate was involved in the relationship, everything will be ruined. Even if you regret it, it'll be too late." — Masafumi Takeuchi from Bokura ga Ita</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

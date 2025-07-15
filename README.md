@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"*to Syaoran* No matter what you are thinking, if you don't say it, you won't be able to express it." — Tomoyo Daidouji from Cardcaptor Sakura</p>
+<p align="center" id="anime-quote">"We would not have met, and the flowers will protect you. Kiba, because you protected this one, the flowers will return and bloom once more. So when the world is reborn, and Paradise opens, we will meet again. This one will be waiting for you. Find this one. And this time, the Paradise you hoped for will be..." — Cheza from Wolf's Rain</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

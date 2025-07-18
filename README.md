@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Even when our eyes are closed, there's a whole world out there, that lives outside of ourselves and our dreams." — Edward Elric from Fullmetal Alchemist</p>
+<p align="center" id="anime-quote">"I don't care if it is fortunate or unfortunate that Light picked up the Death Note. However... It is generally bad luck for a person to be followed by a God of Death." — Ryuk from Death Note</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

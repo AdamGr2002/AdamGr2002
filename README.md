@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I particularly dislike this emotion you call ANGER. It makes me lose sight of myself, you know. Just thinking of what happens to me if I'm not MYSELF. Disgusts me to no end." — Mard Geer from Fairy Tail</p>
+<p align="center" id="anime-quote">"The ones who do what they want and enjoy the most of their lives are the ones who win in the end." — Charlie Staz from Blood Lad</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

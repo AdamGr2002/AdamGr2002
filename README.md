@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Look at this world, so many people deserve to be killed. At the same time, a murderer must be ready to be killed as he lives. That's what retribution is. So, in this world, evil or whatever, a person strongly determined to live is the one who survives in the end." — Genjo Sanzo from Saiyuki</p>
+<p align="center" id="anime-quote">"Oh, right, Senjougahara. I've got a great story to tell you. It's about that man who tried to rape you way back. He was hit by a car and died in a place with no connection to you, in an event with no connection to you. Without any drama at all. [...] That's the lesson for you here: You shouldn't expect your life to be like the theater." — Deishū Kaiki from Bakemonogatari</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

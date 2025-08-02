@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Oh, right, Senjougahara. I've got a great story to tell you. It's about that man who tried to rape you way back. He was hit by a car and died in a place with no connection to you, in an event with no connection to you. Without any drama at all. [...] That's the lesson for you here: You shouldn't expect your life to be like the theater." — Deishū Kaiki from Bakemonogatari</p>
+<p align="center" id="anime-quote">"Unfortunately, in reality there is no situation where one can win merely by following the rules. There will be knights that break the rules, and even chess pieces that betray him." — Ciel Phantomhive from Kuroshitsuji</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

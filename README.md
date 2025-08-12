@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Survival of the fittest is the law of nature. We deceive or we are deceived. Thus, we flourish or perish. Nothing good ever happened to me when I trusted others. That is the lesson. " — Faye Valentine from Cowboy Bebop</p>
+<p align="center" id="anime-quote">"Yuki, the safest place is beside me." — Kaname Kuran from Vampire Knight</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

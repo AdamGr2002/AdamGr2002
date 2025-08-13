@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Yuki, the safest place is beside me." — Kaname Kuran from Vampire Knight</p>
+<p align="center" id="anime-quote">"To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down. " — Makoto Niwa from Denpa Onna to Seishun Otoko</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

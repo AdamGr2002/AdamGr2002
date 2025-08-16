@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It's scary to decide, isn't it? But we have to decide something. If we make a decision, things might change." — Hajime Ichinose from Gatchaman Crowds</p>
+<p align="center" id="anime-quote">"A student who is too loyal to his master has no chance of surpassing that master... A mutinous spirit is the source of independence." — Boris Konev from Legend of the Galactic Heroes</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

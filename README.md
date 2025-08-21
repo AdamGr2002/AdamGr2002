@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You're not the only one who draws power from the moon. (Hama is shocked that Katara managed to resist her bloodbending) My bending Hama, is more powerful than yours. Your technique is useless on me! (draws water from the ground and forms a ring around herself before directing it at Hama)" — Katara from Avatar: The Last Airbender</p>
+<p align="center" id="anime-quote">"Killing others is never justice, no matter what kind of noble cause one upholds." — Seishin Muroi from Shiki</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

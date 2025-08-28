@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"When you decided to go to the sea, it was your own decision. Whatever happens to you on the sea, it depends on what you've done! Don't blame others!!" — Roronoa Zoro from One Piece</p>
+<p align="center" id="anime-quote">"Making his presence felt on his favorite piece of work - this is an oppurtunity no otaku would miss." — Kagami Junichirou from Denpa Kyoushi</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

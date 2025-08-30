@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"[referring to Tohru] If anyone can find a way to choke on rice, it's her." — Sohma Kyo from Fruits Basket</p>
+<p align="center" id="anime-quote">"I've wanted to make him taste his own pathetic failure with all my heart." — Near from Death Note</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

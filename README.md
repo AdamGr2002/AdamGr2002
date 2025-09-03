@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"*to Ichigo, after he released his bankai for the first time* What is that? Are you saying that this small thing is a bankai? Isn't it just the sealed form of your zanpakutō? I see. First the execution, and now Bankai. I can see that you enjoy treading on our pride. Very well, then. I will carve into your body...The punishment for injuring our pride!" — Kuchiki Byakuya from Bleach</p>
+<p align="center" id="anime-quote">"You're gonna fight Sasuke alone? And you think all of us are just gonna stand here and let you?!" — Tenten from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"You're gonna fight Sasuke alone? And you think all of us are just gonna stand here and let you?!" — Tenten from Naruto</p>
+<p align="center" id="anime-quote">"There are so many weapons scattered across my path that it makes me wonder if this world is made of little more than lead and gunpowder." — Jonathan Mar from Jormungand</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

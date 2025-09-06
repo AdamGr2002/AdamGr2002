@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Inherited will. Destiny of the age. The dreams of the people. These are things that will not be stopped. As long as people continue to pursue the meaning of freedom. These things will never cease to be." — Gol D. Roger from One Piece</p>
+<p align="center" id="anime-quote">"There's no shortcut to victory. You have to climb that steep mountain one step at a time. There's an abyss down below and it never ends. Your only choice is to keep climbing!" — Ryuuichi Kazama from Ping Pong The Animation</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

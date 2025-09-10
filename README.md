@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair." — Hachiman Hikigaya from Yahari Ore No Seishun Love Come Wa Machigatteiru</p>
+<p align="center" id="anime-quote">"I placed this blade of grass in my mouth thinking I'd look cool. But it must be poison 'cause ith makinth ma mouth numb." — Shunsui Kyōraku from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

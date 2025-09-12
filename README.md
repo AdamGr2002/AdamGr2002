@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"All the while we've been thinking you were a brilliant strategist when really, you're just a lucky fool." — Kurama from Yu Yu Hakusho</p>
+<p align="center" id="anime-quote">"You won't know if you don't give it a try. " — Takeshi Yamamoto from Katekyo Hitman Reborn!</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

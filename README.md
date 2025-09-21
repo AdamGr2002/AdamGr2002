@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"The day before yesterday, I saw a rabbit. Yesterday, it was a deer. And today, it’s you." — Ichinose Kotomi from CLANNAD</p>
+<p align="center" id="anime-quote">"Someone has to be cursed to balance out a wish for someone else's happiness. That's how we, magical girls, work." — Sayaka Miki from Mahou Shoujo Madoka Magica</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Just as water runs downhill, the human heart also tends to revert to its basest instincts." — Hideo Kuze from Ghost in the Shell</p>
+<p align="center" id="anime-quote">"I don't know how I know, I just know that I know, y'know?" — Itsuki Koizumi from The Melancholy of Haruhi Suzumiya</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

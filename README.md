@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Reaper Combat Art: Mortal Sin Stance." — Death the Kid from Soul Eater</p>
+<p align="center" id="anime-quote">"Saying things like "It would be troubling for her" are just really convenient excuses for yourself. If you can forgive yourself like this, then you can just enjoy staying in your comfort zone, right?" — Kyouya Sata from Ookami Shoujo To Kuro Ouji</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

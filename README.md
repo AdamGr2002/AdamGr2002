@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Yeah, I know. It's not good to be reading Jump at my age." — Gintoki Sakata from Gintama</p>
+<p align="center" id="anime-quote">"You were always smiling, real friendly like, but the way you smiled was so empty it hurt to watch you." — Nicholas D. Wolfwood from Trigun</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

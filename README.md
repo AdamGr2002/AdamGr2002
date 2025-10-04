@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"If it means mankind will live on, I don't mind being called a murderer" — Dot Pixis from Shingeki no Kyojin</p>
+<p align="center" id="anime-quote">"*to Near* Which of us will get Kira first... it's a race!" — Mello from Death Note</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

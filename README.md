@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Even if I could redo the past, I must not take back what has already happened, because if I do that, everything would be a lie: those tears, that pain, those memories, that cold reality that hurts my heart, all of it. There were people who died in pain. There were people who risked their lives to save others. There were people who mourned for the deaths. But then, if everything were taken back and it did not happen, where would all of those go? The dead people would not come back. Reality cannot be overturned. To continue on remembering the pain and the weight… isn't that how lost things remain? People will eventually die and death itself is sad, but pain shouldn't be the only thing that remains. A death is painful, but it also leaves behind bright memories. As I am bound by these people's deaths… As I am protected by my memories of Kiritsugu... I believe memories become constraints and change the people living now... Even if... They are memories that will eventually be forgotten." — Emiya Shirou from Fate/stay night</p>
+<p align="center" id="anime-quote">"Kuro-woof-woof." — Fay D. Flourite from Tsubasa Reservoir Chronicle</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"If you leave, I'll probably be sad. However, if there's somewhere else you'd rather be, you should admit it. Don't lose sight of what you really want." — Shizuku Mizutani from Tonari No Kaibutsu-kun</p>
+<p align="center" id="anime-quote">"Well, everyone's unsure of their fighting abilities. When that happens, just train more! When you're afraid, just train! When something doesn't feel right, just train! When you don't believe in yourself anymore, just train! The only thing that won't betray you is your training." — Shio Sakaki from KenIchi the Mightiest Disciple</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

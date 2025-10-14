@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"If I'm getting in trouble no matter what I do, I may as well make a grand frontal assault and fight to my last breath." — Yuuko Aioi from Nichijou</p>
+<p align="center" id="anime-quote">"*referring to getting into Aleister Chamber's party* Aren't you underestimating me? Aren't I rather popular? A few words here and there and it'll be arranged." — Madame Red from Kuroshitsuji</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

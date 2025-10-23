@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Endou! Show me the soccer I came to love!" — Ichinose Kazuya from Inazuma Eleven</p>
+<p align="center" id="anime-quote">"I realized it one day. The lyrics I struggled to create are only made up so I would have something to sing. Nothing genuine can come out of these flat and boring and ambiguous lives we're living, out of faking your worries for the sake of it." — Ritsuko Ayukawa from Solanin</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

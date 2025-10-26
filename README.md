@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Since when did the "Cat" set the rules for this house? You mean to tell me that you contribute more to this house than anyone else? Do you pay all the bills? I can't stand people who do absolutely nothing but complain all the time! (To Kyo)" — Sohma Hiro from Fruits Basket</p>
+<p align="center" id="anime-quote">"People must continue to fight for their fate. Unless they fight for the future they wish for, they will never know whether or not they can attain it." — Annelotte Kreuz from Queen's Blade: Rebellion</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

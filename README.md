@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Our battle will be concluded, and I will begin my reign from the summit of victory!" — Light Yagami from Death Note</p>
+<p align="center" id="anime-quote">"You still haven’t noticed that something precious to you has been replaced." — Haku from Spirited Away</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

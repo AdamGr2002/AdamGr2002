@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I fight to get what I need, and I kill whoever gets in my way. I always have." — Genkai from Yu Yu Hakusho</p>
+<p align="center" id="anime-quote">"You are from a world Su will never understand." — Su from Shugo Chara</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

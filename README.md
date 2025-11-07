@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Life is like a mountain - you can say you've reached the top, but only after climbing back down. " — Gintoki Sakata from Gintama</p>
+<p align="center" id="anime-quote">"So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!" — Yuusuke Urameshi from Yu Yu Hakusho</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

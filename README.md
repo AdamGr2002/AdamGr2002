@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!" — Yuusuke Urameshi from Yu Yu Hakusho</p>
+<p align="center" id="anime-quote">"These monsters dare to enter this house built on blood and honor! I will see them all roast in the deepest pits of Hell!" — Integra Hellsing from Hellsing</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

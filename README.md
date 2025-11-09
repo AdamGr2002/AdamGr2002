@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"These monsters dare to enter this house built on blood and honor! I will see them all roast in the deepest pits of Hell!" — Integra Hellsing from Hellsing</p>
+<p align="center" id="anime-quote">"Let us talk about the brain. The brain is said to be the place where our consciousness resides. As we speak, each of us possesses our own distinct consciousness. We are all experiencing reality through our own point of view. To each of us, reality unfolds as a unique story as a result of our consciousness. However, looking to the outside from this box called the self, reality is subjective. " — Akihiko Chuuzenji from Mouryou No Hako</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

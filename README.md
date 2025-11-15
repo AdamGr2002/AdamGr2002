@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I don’t mind getting in trouble. But I won’t let my friends' kindness go to waste." — Yuiko Kurugaya from Little Busters!</p>
+<p align="center" id="anime-quote">"Only idiots start fights they can't win." — Sora from No Game No Life</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"The longer one holds on to a memory, the longer one lives in the past. The deeper the memory they hold onto, the more beautiful the past will become. The beautiful memories will eventually turn into hate. Even if they look ahead, they lose the ability to walk. As long as the heavy chain called revenge continues to bind the heart, the tears of sadness will continue to flow. " — Vash the Stampede from Trigun</p>
+<p align="center" id="anime-quote">"[to Athrun] What is it you believe in? What is it you're fighting for now? Is it for that medal you received? Or your father's orders?" — Lacus Clyne from Mobile Suit Gundam Seed</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

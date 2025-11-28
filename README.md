@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Loyalty is only given meaning through one's actions." — Futayo Honda from Kyoukai Senjou No Horizon</p>
+<p align="center" id="anime-quote">"The final door is about to open! And I am the one opening it! Then the world that we know of will come to an end! This world of insatiable desires will end!" — Rau Le Creuset from Mobile Suit Gundam Seed</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Why are you putting so much distance between us? If you want to make sure it hits me, then you should get close and fire. Or is it that you're afraid of letting even a part of me out of your field of vision by getting close? If that's the case, then it's a foolish thought. Distance only has meaning in a fight between equals. With you and I, distance holds no meaning at all. Watch... If I do this, my hand is almost instantly at your heart." — Aizen Sousuke from Bleach</p>
+<p align="center" id="anime-quote">"Revenge that involves unrelated people isn’t valid at all. All he’s doing is hiding his vengeful hate with the title of God’s representative and acting sublime." — Edward Elric from Fullmetal Alchemist</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

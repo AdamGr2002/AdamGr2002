@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Was I able to change myself...even a little, N-Naruto-kun?" — Hinata Hyuuga from Naruto</p>
+<p align="center" id="anime-quote">"I pity you. You just don't get it at all... there's not a thing I don't cherish!" — Cloud Strife from Final Fantasy VII</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

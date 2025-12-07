@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I pity you. You just don't get it at all... there's not a thing I don't cherish!" — Cloud Strife from Final Fantasy VII</p>
+<p align="center" id="anime-quote">"Hey, "Thou Shalt Not Kill", remember? What kind of church man are you?" — Vash the Stampede from Trigun</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

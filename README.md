@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"There are three conditions to terrify someone: One, the monster can't speak. Two, the monster has to be unidentifiable. Three, it's meaningless if the monster can die." — Aozaki Touko from The Garden of Sinners</p>
+<p align="center" id="anime-quote">"The depths of despair…. I feel so calm here. I won’t be tricked by anyone anymore, and I don’t have to resent anyone. There’s nothing here. Not even loving. Nothing but to keep dancing until I die away." — Rue Kuroha from Princess Tutu</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

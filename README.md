@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It will be a new world... A world of truth, not lies." — Madara Uchiha from Naruto</p>
+<p align="center" id="anime-quote">"That sort of thing happens all the time. You get drunk on your own “correctness,” and the more stubborn you get, the further happiness flies away from you. It’s a bitter pill to swallow." — Junko Kaname from Puella Magi Madoka Magica</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

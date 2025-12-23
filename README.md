@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"So he killed my father and murdered my people. That means nothing to me. Strength is the only thing that matters in this world. Everything else is just a delusion for the weak." — Vegeta from Dragon Ball</p>
+<p align="center" id="anime-quote">"Eat bullets macho potato!" — South Italy from Axis Powers: Hetalia</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

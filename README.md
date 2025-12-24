@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Eat bullets macho potato!" — South Italy from Axis Powers: Hetalia</p>
+<p align="center" id="anime-quote">"Revolving... If fate is a wheel, we are the cogs that drive it. We have no choice but to believe that this wheel is flawless and forge on ahead. The power of the individual cogs and their destinations... And the blade that is brought down upon them." — Rukia Kuchiki from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

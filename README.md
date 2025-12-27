@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Many things can be achieved, as long as you believe in it." — Yoh Asakura from Shaman King</p>
+<p align="center" id="anime-quote">"A lot of something is ugly in itself." — Gilgamesh from Fate/stay night</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

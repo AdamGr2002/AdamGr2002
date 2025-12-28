@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"A lot of something is ugly in itself." — Gilgamesh from Fate/stay night</p>
+<p align="center" id="anime-quote">"*to Sakumo* Regardless of what happened, you did the best you could. I understand that now...you broke the rules for all our sakes - I'm proud of you now..." — Hatake Kakashi from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

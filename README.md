@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It's not possible to save everything. Prioritize your goals." — Uryuu Minene from Mirai Nikki</p>
+<p align="center" id="anime-quote">"If... If you have such good deductive skills, you should have been able to see through my sister's disguise easily... But... but... WHY...!!!" — Ai Haibara from Detective Conan</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

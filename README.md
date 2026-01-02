@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"It's okay. There's no pain. [something snaps inside Morty] Oops! [grins maniacally at Yoh] I'm sorry." — Johann Faust VIII from Shaman King</p>
+<p align="center" id="anime-quote">"Besides, miracles don't exist in this world. There are only inevitabilities and accidents, and what you're going to do. That's it." — Himura Yuu from Ef - A Fairy Tale Of The Two</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"To Grell Sutcliff: Then, it's fine if you don't be careful on your way home. Rather, I'd prefer you walk through dangerous roads with your eyes closed." — Sebastian Michaelis from Kuroshitsuji</p>
+<p align="center" id="anime-quote">"*talking to Zoro* The world's greatest swordsman, that's great! And it's fitting since your new boss is going to be King of the Pirates! Anything else would make me look bad!" — Monkey D. Luffy from One Piece</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

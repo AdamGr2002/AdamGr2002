@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"A way for the weak to stay weak, but still defeat the strong. A way to stay who you are but surpass your limits. To soar through the sky, even if you can't fly. He's always found a way, inside despair, suffering and darkness." — Kurami Zell from No Game No Life</p>
+<p align="center" id="anime-quote">"People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder." — Ai Haibara from Detective Conan</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

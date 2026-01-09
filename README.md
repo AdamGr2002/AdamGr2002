@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"*to Orochimaru* But why? How could you do this!? I don't get it, I've looked up to you more than anyone in the world!" — Anko Mitarashi from Naruto</p>
+<p align="center" id="anime-quote">"Just like humans, approve killing animals in society, we, approve the killing of humans." — Mutou Tohru from Shiki</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I would rather be a brainless monkey than a heartless monster. (To Frieza)" — Son Goku from Dragon Ball</p>
+<p align="center" id="anime-quote">"If you can't see what's important, then it's because you're too ashamed to open your eyes." — Ganta Igarashi from Deadman Wonderland</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

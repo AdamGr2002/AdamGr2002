@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Life is basically like a soap bubble. It rides on the wind, flying here and there... and before you realize it - pop! It's gone. When it's about to disappear, you think that you could've flown a little higher. But by the time, it's already too late." — Gintoki Sakata from Gintama</p>
+<p align="center" id="anime-quote">"I'm Haruhi Suzumiya, from East Junior High. First off, I'm not interested in ordinary people. But, if any of you are aliens, time-travelers, or espers, please come see me. That is all!" — Haruhi Suzumiya from The Melancholy of Haruhi Suzumiya</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

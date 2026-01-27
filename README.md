@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Sometimes I wish I was just a cloud, floating along." — Nara Shikamaru from Naruto</p>
+<p align="center" id="anime-quote">"Anyone can smile if you give them something to be happy about. " — Setsuna F. Seiei from Mobile Suit Gundam 00</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

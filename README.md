@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Even if the world line changes, as long as you don't forget me, I'm there." — Kurisu Makise from Steins;Gate</p>
+<p align="center" id="anime-quote">"*to Orochimaru* This is no time to reminisce, you're an S-class criminal, top of the most wanted list. You've got to be taken down, and it's only fitting that I'm the one to do it. 'Cause after all, you're the one that taught me everything, right, Sensei?" — Anko Mitarashi from Naruto</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

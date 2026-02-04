@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"I don’t like someone who makes a fool out of earnest people." — Noriko Paku from Ao no Exorcist</p>
+<p align="center" id="anime-quote">"Worrying about a warrior's life on the battlefield is only an insult." — Abarai Renji from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

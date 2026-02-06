@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"For living creatures, Victory if Life, and Defeat means Death." — Teppei Kiyoshi from Kuroko No Basket</p>
+<p align="center" id="anime-quote">"To fight...Or to live...Choose." — Zangetsu from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

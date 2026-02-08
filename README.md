@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Everyone who calls themselves Japanese:I have a request. Can you all die?Erm...I hoped that you would all commit suicide, but is that impossible?Then can all the soldiers please annihilate them?" — Euphemia Li Britannia from Code Geass: Lelouch of the Rebellion</p>
+<p align="center" id="anime-quote">"You want me to roll over like a dog? Give up, and accept defeat.. Ha! That seems to be the sort of language that your kind is used to using. Language for cowards who forfeited their humanity, because they were too weak to survive as such. Don’t look down on humans, you monsters. Come on. I’ll send you all to hell." — Integra Hellsing from Hellsing</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

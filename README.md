@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"Dividing an impossibly large task into smaller solvable problems, is a programmer's job." — Akasaka Ryuunosuke from Sakurasou no Pet na Kanojo</p>
+<p align="center" id="anime-quote">"[To Orihime] Your heart? You humans say that word so lightly. As if it were something one can hold in the palm of one's hand. But my eye sees everything -- Nothing can escape it. What it doesn't see doesn't exist. That's how I've always fought. That's how I've always lived." — Ulquiorra Schiffer from Bleach</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

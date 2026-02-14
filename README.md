@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"*making excuses for being late, as usual* Hello students, today I got lost on the road of life." — Hatake Kakashi from Naruto</p>
+<p align="center" id="anime-quote">"That contradiction might kill you someday." — Lloyd Asplund from Code Geass: Lelouch of the Rebellion</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

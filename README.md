@@ -65,7 +65,7 @@
 
 <!-- Random Anime Quote (requires workflow) -->
 <h3 align="center">✨ Random Anime Quote</h3>
-<p align="center" id="anime-quote">"That contradiction might kill you someday." — Lloyd Asplund from Code Geass: Lelouch of the Rebellion</p>
+<p align="center" id="anime-quote">"You know, with talented people... They draw people to themselves, and without even trying to, they tear them to shreds. The closer you are to them, the more viciously you'll be torn apart. They're living in a completely different world above us. One that us normal people can't reach. In a world that we'll never see. A world above the clouds. That's the kind of world they live in." — Jin Mitaka from Sakurasou no Pet na Kanojo</p>
 <!---
 AdamGr2002/AdamGr2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
